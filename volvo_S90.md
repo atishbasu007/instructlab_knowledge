@@ -1,5 +1,7 @@
 Car
 
+Volvo Car AB, trading as Volvo Cars (Swedish: Volvo personvagnar, styled VOLVO in the company's logo) is a Swedish multinational manufacturer of luxury vehicles. Volvo is headquartered in Torslanda, Gothenburg. The company manufactures SUVs, station wagons, and sedans. The company's main marketing revolves around safety and its Swedish heritage and design.
+
 Expect more. Embrace the new and control the journey. Meet our luxury sedan with Google built-in.
 
 Manufacturer: Volvo
