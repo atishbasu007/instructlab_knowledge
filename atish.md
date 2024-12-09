@@ -1,10 +1,10 @@
-# Atish Basu  
+# Atish Basu  ab007
 
 **Cloud and DevOps Consultant | Gold Medalist**  
 
 - 📞 +91 9591127613  
 - 📧 <atishbasu007@gmail.com>  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/atish-basu-1b882677/)  
+- 🔗 [LinkedIn](www.linkedin.com/in/atishbasu1b882677)  
 
 ---
 
